@@ -1,0 +1,19 @@
+Kadane's Algorithm has the following approaches:
+
+
+1. First We find the sum using a single loop as it is the optimized form of Brute Force Technique...
+
+What our approach is: 
+
+
+   an arr[] of n dimension, 
+
+   Subarray: An array that is continious, basically a continious part of an array, 
+ 
+  So, to find it's maximum sum of it's sub array take it's first number as it's maximum sum, 
+
+  let it be the current sum, 
+  move to next element add it until you find the maximum sum, 
+
+  Keep in mind that if your curr sum becomes less than 0 make the curr sum to 0 because it's basically no point to add next num if you curr sum is less than 0 because it will rather decrase the curr sum only 
+ 
