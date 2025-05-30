@@ -1,0 +1,17 @@
+Pair Sum: Return pair in sorted array with target sum.. {Use Brute Force Technique at First..}
+{2, 7, 11, 15} : target is 9 or 13. 
+
+Every info is relevant to your question....
+
+
+optimal Solution: 
+1. If you have sorted array, the array is ascending, 
+2. Take two pointer approach in this pair sum approach, 
+
+
+Majority Element: classical question Use Brute Force Technique, Optimal Soln, 
+
+Moore's Voting Algorithm: 
+
+Intution: 
+ if an element that has frequency n/2, then 
